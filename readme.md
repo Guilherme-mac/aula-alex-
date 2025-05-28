@@ -5,6 +5,6 @@
 
 ## Participantes
 
-| Nome | GitHub |
+| Guilherme Mac Martins | Guilherme Mac |
 |------|--------|
 | Exemplo | [exemplo](http://github.com/exemplo)
